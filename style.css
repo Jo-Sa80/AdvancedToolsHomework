@@ -3,10 +3,7 @@
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
-@media (max-width: 915px) {
-  h1 {
-    font-size: 15px;
-  }
+@media (max-width: 576px) {
   h2 {
     text-align: center;
   }
@@ -19,7 +16,10 @@
     text-align: center;
   }
   .heading {
-    font-size: 15px;
+    font-size: 48px;
+  }
+  .second-heading {
+    font-size: 32px;
   }
 }
 body {
