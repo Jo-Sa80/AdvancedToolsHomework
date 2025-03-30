@@ -5,6 +5,7 @@
 }
 @media (max-width: 576px) {
   h2 {
+    font-size: 32px !important;
     text-align: center;
   }
   p {
@@ -18,12 +19,10 @@
   .heading {
     font-size: 48px;
   }
-  .second-heading {
-    font-size: 32px;
-  }
 }
 body {
   margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 h1,
